@@ -1,2 +1,2 @@
-# digitalbank
+# digital-bank
 digital bank playground
