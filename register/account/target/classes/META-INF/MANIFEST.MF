@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Implementation-Title: conta
+Implementation-Title: acccount
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: ruben
-Implementation-Vendor-Id: org.doteva.digital-bank.cadastro
+Implementation-Vendor-Id: org.doteva.digital-bank.register
 Build-Jdk: 1.8.0_241
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/conta
+ ot-starter-parent/acccount
 Created-By: Maven Integration for Eclipse
 
