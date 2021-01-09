@@ -20,7 +20,7 @@
 	</parent>
 
 	<modules>
-		<module>cadastro</module>
+		<module>register</module>
 	</modules>
 
 	<properties>

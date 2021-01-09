@@ -6,11 +6,11 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.doteva.digital-bank</groupId>
-	<artifactId>cadastro</artifactId>
+	<artifactId>register</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>cadastro</name>
-	<description>cadastro</description>
+	<name>register</name>
+	<description>register</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
